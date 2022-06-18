@@ -1,0 +1,1 @@
+File "datasets.7z" contains the genotype and phenotype of five species used in this study, for Pacific oyster, a map file was also included for GWAS. 
